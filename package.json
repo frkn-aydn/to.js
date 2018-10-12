@@ -1,6 +1,6 @@
 {
-  "name": "to.js",
-  "version": "0.0.1",
+  "name": "@frkn-aydn/to.js",
+  "version": "0.0.2",
   "description": "Async/Await functions without try-catch blocks",
   "main": "main.js",
   "scripts": {
